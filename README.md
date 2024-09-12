@@ -1,2 +1,1 @@
-# Curso-de-programacion
-este es un repositorio de prueba del course henry
+Este proyecto es una prueba de como clonar un repositorio.
